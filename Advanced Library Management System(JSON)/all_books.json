@@ -1,0 +1,32 @@
+[
+    {
+        "title": "book1",
+        "author": "author2",
+        "isbn": 60682,
+        "year": 2000,
+        "price": 200,
+        "quantity": 20,
+        "bookAddedAt": "01-05-25 02:21:21",
+        "bookUpdatedAt": "01-05-25 02:21:21"
+    },
+    {
+        "title": "book2",
+        "author": "author2",
+        "isbn": 38483,
+        "year": 2005,
+        "price": 400,
+        "quantity": 15,
+        "bookAddedAt": "01-05-25 02:21:56",
+        "bookUpdatedAt": "01-05-25 02:24:14"
+    },
+    {
+        "title": "book5",
+        "author": "author5",
+        "isbn": 81914,
+        "year": 2005,
+        "price": 500,
+        "quantity": 17,
+        "bookAddedAt": "01-05-25 23:09:14",
+        "bookUpdatedAt": "01-05-25 23:09:14"
+    }
+]
